@@ -36,7 +36,7 @@ Workers' remittances are a major source of foreign exchange for Pakistan. This p
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.x with `pandas`, `sqlalchemy`, `psycopg2`, and `openpyxl`
+- Python 3.x with `pandas`, `sqlalchemy`, `psycopg2`.
 - PostgreSQL installed and running
 - Power BI Desktop (to open the `.pbix` file)
 
