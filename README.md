@@ -21,8 +21,7 @@ Workers' remittances are a major source of foreign exchange for Pakistan. This p
 ## 🛠️ Tools & Technologies
 
 - **Python** (pandas, SQLAlchemy) — data loading & cleaning
-- **PostgreSQL** — data storage
-- **SQL** — data analysis/querying
+- **PostgreSQL** data analysis/querying
 - **Power BI** — dashboard & visualization
 - **Excel** — source data
 
