@@ -70,6 +70,7 @@ See `Dashboard Snapshot.png` for a preview of the Power BI dashboard.
 
 Muhammad Usman
 
-## 📝 License
-
-No license specified yet — add one (e.g., MIT) if you'd like others to reuse this project.
+## License
+This repository is for portfolio/demonstration purposes only. 
+All rights reserved. Unauthorized copying, use, or distribution 
+is not permitted without explicit permission.
